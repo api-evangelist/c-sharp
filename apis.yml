@@ -1,12 +1,30 @@
+aid: c-sharp
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/c-sharp/refs/heads/main/apis.yml
 name: C#
-description: C# is a modern, object-oriented programming language developed by Microsoft
-  as part of the .NET platform. It is used for building Windows applications, web
-  services, games (via Unity), and enterprise software, offering strong typing, garbage
-  collection, and rich framework support.
-url: null
 tags:
-- C#
-created: '2025'
-modified: '2025'
+  - C#
+  - Programming Language
+  - Microsoft
+  - .NET
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+description: >-
+  C# is a modern, object-oriented programming language developed by Microsoft
+  as part of the .NET platform. It is used for building Windows applications,
+  web services, games (via Unity), and enterprise software, offering strong
+  typing, garbage collection, and rich framework support.
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://learn.microsoft.com/en-us/dotnet/csharp/
+  - type: Documentation
+    url: https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+specificationVersion: '0.19'
