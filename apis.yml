@@ -3,10 +3,10 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/c-sharp/refs/heads/main/apis.yml
 name: C#
 tags:
-  - C#
-  - Programming Language
-  - Microsoft
   - .NET
+  - C#
+  - Microsoft
+  - Programming Language
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
