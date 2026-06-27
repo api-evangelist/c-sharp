@@ -127,7 +127,7 @@ common:
     url: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/
   - type: Specification
     url: https://learn.microsoft.com/en-us/dotnet/csharp/specification/
-  - type: GitHub Org
+  - type: GitHubOrg
     url: https://github.com/dotnet
   - type: Roslyn Compiler
     url: https://github.com/dotnet/roslyn
