@@ -66,6 +66,10 @@ apis:
     tags:
       - Compiler
       - Roslyn
+      - Open-Source
+    tags_raw:
+      - Compiler
+      - Roslyn
       - Open Source
     humanURL: https://github.com/dotnet/roslyn
     properties:
@@ -80,6 +84,10 @@ apis:
   - aid: c-sharp:dotnet-runtime
     name: .NET Runtime
     tags:
+      - Runtime
+      - Dotnet
+      - Open-Source
+    tags_raw:
       - Runtime
       - Dotnet
       - Open Source
