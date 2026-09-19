@@ -75,7 +75,7 @@ apis:
   - aid: c-sharp:roslyn-compiler
     name: Roslyn (.NET Compiler Platform)
     tags:
-      - Compiler
+      - Compilers
       - Roslyn
       - Open-Source
     tags_raw:
