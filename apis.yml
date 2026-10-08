@@ -157,6 +157,12 @@ apis:
       ASP.NET Core is the cross-platform web framework for C#, used to build
       web applications, APIs, and real-time services on the .NET runtime.
 common:
+  - type: Plans
+    url: plans/c-sharp-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/c-sharp-rate-limits.yml
+  - type: FinOps
+    url: finops/c-sharp-finops.yml
   - type: VulnerabilityDisclosure
     url: security/c-sharp-vulnerability-disclosure.yml
   - type: DomainSecurity
