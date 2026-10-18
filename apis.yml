@@ -10,6 +10,15 @@ tags:
   - Topic
   - Roslyn
   - NuGet
+  - Language
+tags_raw:
+  - .NET
+  - C#
+  - Microsoft
+  - Programming Language
+  - Topic
+  - Roslyn
+  - NuGet
   - Dotnet
   - Language
 type: Index
@@ -102,7 +111,7 @@ apis:
     name: .NET Runtime
     tags:
       - Runtime
-      - Dotnet
+      - .NET
       - Open Source
     tags_raw:
       - Runtime
